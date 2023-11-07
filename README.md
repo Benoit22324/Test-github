@@ -1,2 +1,2 @@
 # Test-github
-Ceci est juste un test pour le cours
+Je suis là, je ne suis plus (jamais) là
